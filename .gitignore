@@ -28,3 +28,4 @@ pom.xml.asc
 *.iws
 figwheel_server.log
 *.log
+.idea
